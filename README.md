@@ -1,5 +1,17 @@
 # Projects
 ********
+
+### Data Science Projects - (Python)
+********
+#### Project 1 Title:
+Predicting Credit Card Approvals
+
+#### Project Description:
+Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning. In this project, I will build an automatic credit card approval predictor using machine learning techniques in python, just like the real banks do. The dataset used in this project is the Credit Cards Approval Dataset from the UCI Machine Learning Repository.
+
+#### 
+
+
 ### Data Analytics projects– (R Studio)
 ********
 #### Tasks
@@ -23,7 +35,7 @@ My R projects consist of the following tasks:
 
 ->  Descriptive Statistics and Graphs of Baby Names in Ireland (1964-2021).
 
-In the first exercise, we use a dataset that contains baby names (1964â2021) for the Republic of Ireland, released annually by the Central Statistics Office. Due to confidentiality reasons, only names with at least three instances in the relevant year are included. The data frame `iebabynames`is part of the [**iebabynames** R package](https://github.com/stefan-mueller/iebabynames).
+In the first exercise, we use a dataset that contains baby names (1964-2021) for the Republic of Ireland, released annually by the Central Statistics Office. Due to confidentiality reasons, only names with at least three instances in the relevant year are included. The data frame `iebabynames`is part of the [**iebabynames** R package](https://github.com/stefan-mueller/iebabynames).
 
 #### Topic 2
 
