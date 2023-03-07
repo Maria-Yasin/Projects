@@ -63,7 +63,7 @@ This exercise uses data from the British Election Study collected shortly before
 
 
 ********
-Data Visualisation Project (Tableau)
+### Data Visualisation Project (Tableau)
 ********
 
 #### Data Visualization task using flight data (2015-2017)
