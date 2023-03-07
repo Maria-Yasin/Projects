@@ -9,10 +9,28 @@ Predicting Credit Card Approvals
 #### Project Description:
 Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning. In this project, I will build an automatic credit card approval predictor using machine learning techniques in python, just like the real banks do. The dataset used in this project is the Credit Cards Approval Dataset from the UCI Machine Learning Repository.
 
-#### 
+#### Project 2 Title:
+Exploratory data analysis using earthquake API
 
+#### Project Description:
+• Retrieval of sufficient data for analysis from your selected web API. 
 
-### Data Analytics projects– (R Studio)
+• Saving dataset in an appropriate format.
+
+• Loading dataset in an appropriate representation.
+
+• Data pre-processing, including cleaning, filtering, and transformation of the data before analysis.
+
+• Data characterisation, summarisation, and analysis of the data. 
+
+• Analysis should include use of tables and visualisations where appropriate.
+
+• Interpretation and explanation of the results. 
+
+• Conclusions with summary of insights, challenges, and future work.
+
+********
+### Data Analytics projects– (R/R Studio)
 ********
 #### Tasks
 
@@ -42,8 +60,8 @@ In the first exercise, we use a dataset that contains baby names (1964-2021) for
 ->  Analysing Survey Data: Voting Behaviour during the Brexit Referendum.
 
 This exercise uses data from the British Election Study collected shortly before the Brexit Referendum. It will help us analyse how age and education levels relate to voting "leave" or "remain". The data are described and used in Sara Hobolt's paper "The Brexit vote: a divided nation, a divided continent" published in the Journal of European Public Policy in 2016. The dataset is part of the 7th Wave of the British Election Study, constituting the pre-campaign "Panel Survey Study of the 2016 EU Referendum", conducted before the referendum. The sample size is much larger than usual election studies, allowing for a fine-grained analysis of vote choice based on age and education.
-******
 
+******
 ### BSc. (Honours) Final Year Dissertation
 ******
 
