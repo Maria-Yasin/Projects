@@ -61,6 +61,33 @@ In the first exercise, we use a dataset that contains baby names (1964-2021) for
 
 This exercise uses data from the British Election Study collected shortly before the Brexit Referendum. It will help us analyse how age and education levels relate to voting "leave" or "remain". The data are described and used in Sara Hobolt's paper "The Brexit vote: a divided nation, a divided continent" published in the Journal of European Public Policy in 2016. The dataset is part of the 7th Wave of the British Election Study, constituting the pre-campaign "Panel Survey Study of the 2016 EU Referendum", conducted before the referendum. The sample size is much larger than usual election studies, allowing for a fine-grained analysis of vote choice based on age and education.
 
+
+********
+Data Visualisation Project (Tableau)
+********
+
+#### Data Visualization task using flight data (2015-2017)
+
+Using the Flights2015-2017 dataset create visualisations to answer the following 
+questions: 
+
+1. Which airline has the most flights?
+
+2. Which airline has flights with the longest average distance?
+
+3. Which day of the week has the fewest total flights? Is this consistent across 
+the three years?
+
+4. Which scheduled departure time of the day (HOUR) is associated with the 
+longest average delays (Arrival Delay)? Is this consistent across the three 
+years?
+
+5. Which airline has the most delayed (Status = Delayed) flights? Does this 
+airline have the most flights overall?
+
+6. Among cancelled flights (Cancelled = 1), what is the most common 
+cancellation code? Is this consistent across the three years?
+
 ******
 ### BSc. (Honours) Final Year Dissertation
 ******
