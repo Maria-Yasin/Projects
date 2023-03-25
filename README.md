@@ -84,6 +84,24 @@ As a consequence of Brexit and recent political developments, many observers dis
 
 In this exercise, we will estimate the effect of having a female politician on two different policy outcomes. For this purpose, we will analyze data from an experiment conducted in India, where villages were randomly assigned to have a female council head. The dataset we will use is in a file called india.csv. The list below shows the names and descriptions of the variables in this dataset, where the unit of observation is villages.
 
+********
+### Machine Learning Project (Python)
+********
+#### Topic: Encoding Category Features
+
+#### Objective
+The objective of this project is to assess the effectiveness of different strategies for encoding categorical features. The encoding strategies to be assessed are One Hot Encoding, Ordinal Encoding and CatBoost Encoding. The assessment will be done on the dataset provided " breast-cancer.csv".
+
+Tasks
+- Using a Naive Bayes classifier and the OneHotEncoder and OrdinalEncoder packages from scikit-learn assess the performance of these encodings using a 50:50 split of the data (i.e. use 50% of the data for testing). 
+
+- The performance assessment should be done multiple times and an average result reported. 
+
+- Repeat the assessment from Task 1 using the CatBoost Encoder.
+
+- Repeat the tests on the three encoder classifier combinations considered in Tasks 1 and 2 but with the encoders fitted after splitting the data into train and test sets. The encoders should be fitted on the training data only. 
+
+- Plot all the results in a bar-chart. Comment on the overall conclusions that can be drawn from these evaluations. 
 
 ********
 ### Data Visualisation Project (Tableau)
