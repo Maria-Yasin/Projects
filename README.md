@@ -119,8 +119,6 @@ The objective of this project is to assess the effectiveness of different strate
 Tasks
 - Using a Naive Bayes classifier and the OneHotEncoder and OrdinalEncoder packages from scikit-learn assess the performance of these encodings using a 50:50 split of the data (i.e. use 50% of the data for testing). 
 
-- The performance assessment should be done multiple times and an average result reported. 
-
 - Repeat the assessment from Task 1 using the CatBoost Encoder.
 
 - Repeat the tests on the three encoder classifier combinations considered in Tasks 1 and 2 but with the encoders fitted after splitting the data into train and test sets. The encoders should be fitted on the training data only. 
