@@ -28,6 +28,30 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 • Conclusions with summary of insights, challenges, and future work.
 
 ********
+### GPX Data Webscraping Project (Python)
+********
+
+The objective of this Project is to scrape a collection of GPX files from the http://mlg.ucd.ie/modules/python/EVdata web pages and perform some analysis. GPX is an XML-based format for GPS data. These GPX files have been copied from eurovelo.com. 
+
+The EuroVelo website provides GPX files for 17 long distance cycle routes. These routes are divided into stages and the focus of this assignment is to generate summary statistics (distances and elevation) for these stages. The idea being that these statistics would help people identify stages that would meet their interests and abilities. 
+
+#### Task 1. Data Collection
+
+Scrape the GPX files from http://mlg.ucd.ie/modules/python/EVdata. There are 17 Eurovelo routes so you should get 17 GPX files. You may find BeautifulSoup to be useful for this task. The 17 GPX files should be stored in a data folder/directory where they can be accessed for the summary statistics task.
+
+#### Task 2. Generate summary statistics 
+
+Some of the summary statistics generated in the project are given below:
+
+What is the longest stage in EuroVelo 6?
+
+What is the stage in EuroVelo 1 with the most uphill?
+
+What are the three flattest contiguous stages in EuroVelo 2?
+
+Find the five hilliest (most uphill) contiguous stages in EuroVelo 1.
+
+********
 ### Data Analytics projects– (R/R Studio)
 ********
 ### Tasks
