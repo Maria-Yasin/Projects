@@ -129,6 +129,19 @@ airline have the most flights overall?
 6. Among cancelled flights (Cancelled = 1), what is the most common 
 cancellation code? Is this consistent across the three years?
 
+********
+### Vega-Lite Dashboard Project (Videogame dataset)
+********
+
+The goal of this assignment is to create an interactive ‘dashboard’ style visualisation to enable analysis and exploration of a dataset related to video game sales.
+This visualisation contains three linked charts that interact with each other – a scatter plot and two bar charts.
+
+•	The scatterplot shows each games’ sales in the EU and Global Sales.
+
+•	The bar chart on the right shows the total number of games in each Genre. Clicking on a Genre on the bar chart should filter the scatterplot on the left so that only the games from that Genre are shown. This should also update the bar chart on the bottom of the image, e.g. selecting Racing in the bar chart should update the visualisation.
+
+•	The chart at the bottom of the image is a bar chart that shows the total number of games released each year. It should be possible to do a brush select on this chart to select games released within a certain time period. This select should update the contents of the other two charts, i.e. hiding the games that were released outside the selected range from the scatterplot and updating the genre bar chart to only count games that have a release date within the selected range.
+
 ******
 ### BSc. (Honours) Final Year Dissertation
 ******
