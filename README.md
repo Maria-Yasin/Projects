@@ -8,7 +8,7 @@
 #### Project Description:
 Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning. In this project, I will build an automatic credit card approval predictor using machine learning techniques in python, just like the real banks do. The dataset used in this project is the Credit Cards Approval Dataset from the UCI Machine Learning Repository.
 
-#### NLP Sentiment Analysis (Amazon Reviews)
+#### Project 2 Title: NLTK Sentiment Analysis (Amazon Reviews)
 
 #### Project Description
 
@@ -40,7 +40,7 @@ Additionally, creating subplots to depict the distribution of positive, neutral,
 Through these sequential steps, we aim to analyze Amazon reviews comprehensively, gaining valuable insights into customer sentiments regarding various products.
 
 
-#### Project 2 Title: Exploratory data analysis using earthquake API
+#### Project 3 Title: Exploratory data analysis using earthquake API
 
 #### Project Description:
 • Retrieval of sufficient data for analysis from your selected web API. 
