@@ -12,29 +12,26 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 #### Project Description
 
-Basic Exploratory Data Analysis (EDA):
+• Basic Exploratory Data Analysis (EDA):
 
 Conducting a quick exploratory data analysis (EDA) to understand the dataset better.
-
 Analyzing the distribution of review scores to gain insights into the dataset's overall sentiment.
 
-Basic NLTK (Natural Language Toolkit):
+• Basic NLTK (Natural Language Toolkit):
 
 Employing NLTK for fundamental natural language processing tasks.
-
 Tasks include tokenization, part-of-speech tagging, and chunking to preprocess the review text data.
 
 
-VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiment Analysis:
+• VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiment Analysis:
 
 Utilizing NLTK's SentimentIntensityAnalyzer to perform sentiment analysis.
-
 Extracting sentiment scores (negative, neutral, positive, and compound) for each review text using the VADER lexicon.
 
 The compound score provides an overall sentiment score, while individual scores offer insights into specific sentiments expressed in the reviews.
 
 
-Visualization:
+• Visualization:
 
 Visualizing the sentiment analysis results through seaborn barplots.
 These plots illustrate the distribution of sentiment scores (compound, positive, neutral, and negative) across different review scores.
